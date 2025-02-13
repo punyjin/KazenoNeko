@@ -1,1 +1,1 @@
-kazenoneko-studio.web.app
+kazenoneko-studio.vercel.app
